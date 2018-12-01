@@ -1,0 +1,11 @@
+/Users/cliff/Desktop/dotnetDocs/list-tutorial/bin/Debug/netcoreapp2.1/list-tutorial.deps.json
+/Users/cliff/Desktop/dotnetDocs/list-tutorial/bin/Debug/netcoreapp2.1/list-tutorial.runtimeconfig.json
+/Users/cliff/Desktop/dotnetDocs/list-tutorial/bin/Debug/netcoreapp2.1/list-tutorial.runtimeconfig.dev.json
+/Users/cliff/Desktop/dotnetDocs/list-tutorial/bin/Debug/netcoreapp2.1/list-tutorial.dll
+/Users/cliff/Desktop/dotnetDocs/list-tutorial/bin/Debug/netcoreapp2.1/list-tutorial.pdb
+/Users/cliff/Desktop/dotnetDocs/list-tutorial/obj/Debug/netcoreapp2.1/list-tutorial.csprojAssemblyReference.cache
+/Users/cliff/Desktop/dotnetDocs/list-tutorial/obj/Debug/netcoreapp2.1/list-tutorial.csproj.CoreCompileInputs.cache
+/Users/cliff/Desktop/dotnetDocs/list-tutorial/obj/Debug/netcoreapp2.1/list-tutorial.AssemblyInfoInputs.cache
+/Users/cliff/Desktop/dotnetDocs/list-tutorial/obj/Debug/netcoreapp2.1/list-tutorial.AssemblyInfo.cs
+/Users/cliff/Desktop/dotnetDocs/list-tutorial/obj/Debug/netcoreapp2.1/list-tutorial.dll
+/Users/cliff/Desktop/dotnetDocs/list-tutorial/obj/Debug/netcoreapp2.1/list-tutorial.pdb
