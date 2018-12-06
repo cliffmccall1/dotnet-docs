@@ -1,0 +1,9 @@
+/Users/cliff/Desktop/dotnetDocs/WordCounter/TextUtils/bin/Debug/netstandard2.0/TextUtils.deps.json
+/Users/cliff/Desktop/dotnetDocs/WordCounter/TextUtils/bin/Debug/netstandard2.0/TextUtils.dll
+/Users/cliff/Desktop/dotnetDocs/WordCounter/TextUtils/bin/Debug/netstandard2.0/TextUtils.pdb
+/Users/cliff/Desktop/dotnetDocs/WordCounter/TextUtils/obj/Debug/netstandard2.0/TextUtils.csprojAssemblyReference.cache
+/Users/cliff/Desktop/dotnetDocs/WordCounter/TextUtils/obj/Debug/netstandard2.0/TextUtils.csproj.CoreCompileInputs.cache
+/Users/cliff/Desktop/dotnetDocs/WordCounter/TextUtils/obj/Debug/netstandard2.0/TextUtils.AssemblyInfoInputs.cache
+/Users/cliff/Desktop/dotnetDocs/WordCounter/TextUtils/obj/Debug/netstandard2.0/TextUtils.AssemblyInfo.cs
+/Users/cliff/Desktop/dotnetDocs/WordCounter/TextUtils/obj/Debug/netstandard2.0/TextUtils.dll
+/Users/cliff/Desktop/dotnetDocs/WordCounter/TextUtils/obj/Debug/netstandard2.0/TextUtils.pdb

@@ -1,0 +1,11 @@
+/Users/cliff/Desktop/dotnetDocs/Hello/bin/Debug/netcoreapp2.1/Hello.deps.json
+/Users/cliff/Desktop/dotnetDocs/Hello/bin/Debug/netcoreapp2.1/Hello.runtimeconfig.json
+/Users/cliff/Desktop/dotnetDocs/Hello/bin/Debug/netcoreapp2.1/Hello.runtimeconfig.dev.json
+/Users/cliff/Desktop/dotnetDocs/Hello/bin/Debug/netcoreapp2.1/Hello.dll
+/Users/cliff/Desktop/dotnetDocs/Hello/bin/Debug/netcoreapp2.1/Hello.pdb
+/Users/cliff/Desktop/dotnetDocs/Hello/obj/Debug/netcoreapp2.1/Hello.csprojAssemblyReference.cache
+/Users/cliff/Desktop/dotnetDocs/Hello/obj/Debug/netcoreapp2.1/Hello.csproj.CoreCompileInputs.cache
+/Users/cliff/Desktop/dotnetDocs/Hello/obj/Debug/netcoreapp2.1/Hello.AssemblyInfoInputs.cache
+/Users/cliff/Desktop/dotnetDocs/Hello/obj/Debug/netcoreapp2.1/Hello.AssemblyInfo.cs
+/Users/cliff/Desktop/dotnetDocs/Hello/obj/Debug/netcoreapp2.1/Hello.dll
+/Users/cliff/Desktop/dotnetDocs/Hello/obj/Debug/netcoreapp2.1/Hello.pdb
